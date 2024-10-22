@@ -7,4 +7,4 @@ voldoende ruimte in de array. Toon de namen in de console.
 
 ![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
 gegenereerde
-beschrijving](./media/image1.png)
+beschrijving](./media/image3.png)
